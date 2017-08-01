@@ -1,8 +1,8 @@
 /*
-Matt Butcher, Matt Farina, "Go in Practice". Chapter 1
 1. Возврат двух значений из функции
 2. Обмен значениями переменных
 3/ Использование _ как временной переменной в операциях извлечения нескольких значений
+Matt Butcher, Matt Farina, "Go in Practice". Chapter 1
  */
 
 package main
